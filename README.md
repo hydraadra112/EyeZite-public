@@ -17,6 +17,9 @@ Diabetic retinopathy remains a leading cause of preventable vision loss globally
 
 The Philippine DOST has identified DR as a critical health priority requiring automation solutions. EyeZite addresses this through an interpretable AI framework that balances **clinical accuracy with transparency**—a prerequisite for healthcare AI adoption.
 
+## Video Demonstration
+<video src="https://github.com/user-attachments/assets/00953572-8997-42fb-974f-94c1085769f7" controls autoplay loop muted width="100%"></video>
+
 ## Technical Innovation
 
 ### 1. **Dual-Model Architecture for Multi-Task Learning**
