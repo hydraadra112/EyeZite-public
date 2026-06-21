@@ -1,5 +1,10 @@
 # EyeZite: Deep-Learning Based Assistive Tool for Diabetic Retinopathy Lesion Detection
 
+App URL: https://eyezite.vercel.app
+
+> [!NOTE]
+> The URL above is frontend only. Backend does not work due to the sheer size of computing power it requires to perform inference. You can view the attached demonstration video below though.
+
 ## Overview
 
 **EyeZite** is a web-based diagnostic assistive system for automated detection of diabetic retinopathy (DR) lesions in fundus images, integrating Explainable AI (XAI) to enhance clinical transparency and trustworthiness. This system targets the critical gap in DR screening accessibility in resource-limited regions while maintaining high diagnostic accuracy through interpretable deep learning architectures.
